@@ -11,6 +11,9 @@
 pkg install git
 ```
 ```
+pkg install clang
+```
+```
 rm -rf $HOME/XC
 ```
 ```
